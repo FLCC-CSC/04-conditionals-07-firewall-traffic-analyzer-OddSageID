@@ -106,7 +106,7 @@ Risk Assessment: UNKNOWN: Unrecognized traffic pattern.
 '''
 
 1. Did you get tripped up using the `or` or `and` operators? If so, how?
-I didn’t have major issues, but I had to think carefully about
+I did not have major issues, but I had to think carefully about
 how the and operator works in compound conditions.
 It helped to test my code and see that all the conditions
 needed to be true for the statement to run.
